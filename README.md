@@ -1,4 +1,4 @@
- Create a professional and beginner-friendly README.md for my GitHub repository named "C-Programming".
+ Create a professional and beginner-friendly README.md for my GitHub repository named "CProgramming".
 
 This repository contains C programming examples that I created while learning and practicing the C programming language.
 
